@@ -71,6 +71,7 @@ public class DemoList {
     public static void linkedListExamples() {
         LinkedList<Car> cars = new LinkedList<>();
 
+
         Car car1 = new Car("BMW");
         Car car2 = new Car("Niva");
         Car car3 = new Car("Nissan");
