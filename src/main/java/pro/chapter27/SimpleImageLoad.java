@@ -14,7 +14,7 @@ public class SimpleImageLoad extends Frame {
 
     public SimpleImageLoad() {
         try {
-            File imageFile = new File("src/main/resources/img.png");
+            File imageFile = new File("src/main/resources/jcf_struct.png");
             image = ImageIO.read(imageFile);
         }
         catch (IOException e) {
